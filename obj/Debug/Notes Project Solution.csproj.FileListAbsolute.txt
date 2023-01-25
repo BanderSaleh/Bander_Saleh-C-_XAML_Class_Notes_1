@@ -1,0 +1,18 @@
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\MainWindow.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\App.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution_MarkupCompile.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution_MarkupCompile.lref
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\bin\Debug\Notes Project Solution.exe.config
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\bin\Debug\Notes Project Solution.exe
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\bin\Debug\Notes Project Solution.pdb
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\MainWindow.baml
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.g.resources
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes_Project_Solution.Properties.Resources.resources
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.csproj.GenerateResource.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.csproj.CoreCompileInputs.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.exe
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Notes Project Solution.pdb
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Bander_Notes\Bander Notes.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Module 3 Notes Project\Notes Project Solution\obj\Debug\Bander_Notes\Bander Notes.baml
